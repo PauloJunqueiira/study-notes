@@ -6,7 +6,7 @@ int main(){
     float mediaAlunos[4];
     float soma = 0;
     float media = 0;
-
+    
     for (int aluno = 0; aluno < 4; aluno++)
     {   
         media = 0;
